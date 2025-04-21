@@ -1,0 +1,114 @@
+{
+    "navbar": {
+      "home": "Home",
+      "fruitGallery": "Fruit Gallery",
+      "howToExplore": "How to Explore",
+      "subscribe": "Subscribe",
+      "contact": "Contact",
+      "title": "Vietnam Fruits",
+      "searchPlaceholder": "Search for fruits...",
+      "search": "Search",
+      "language": "Language",
+      "toggleMenu": "Toggle navigation menu",
+      "languages": {
+        "vn": "Vietnamese",
+        "en": "English",
+        "cn": "Chinese"
+      },
+      "social": {
+        "facebook": "Facebook",
+        "youtube": "YouTube",
+        "tiktok": "TikTok"
+      },
+      "socialLink": "Follow us on {platform}"
+    },
+    "header": {
+      "title": "The Essences of Vietnam Fruits",
+      "organization": "Ministry of Industry and Trade",
+      "discoverFruits": "Discover the Fruits",
+      "joinJourney": "Join the Journey",
+      "culturalNote": "Vietnam’s fruits are a vibrant tapestry of culture and nature."
+    },
+    "callToAction": {
+      "title": "🌴 Embark on a Flavorful Adventure",
+      "description": "Immerse yourself in the vibrant world of Vietnam’s fruits, where each bite tells a story of tradition, terroir, and timeless craftsmanship.",
+      "discoverFruits": "Discover the Fruits",
+      "joinJourney": "Join the Journey",
+      "testimonial1": "“Visiting the fruit gallery felt like traveling through Vietnam’s orchards without leaving my home!” – Linh, Hanoi",
+      "testimonial2": "“The flavors and stories of these fruits are a true celebration of Vietnam’s heritage!” – Minh, Ho Chi Minh City",
+      "testimonial3": "“An unforgettable experience exploring Vietnam’s fruit treasures!” – Anh, Da Nang",
+      "prevTestimonial": "Previous testimonial",
+      "nextTestimonial": "Next testimonial"
+    },
+    "fruitGallery": {
+      "title": "🍈 Vietnam’s Orchard Treasures",
+      "description": "Explore the vibrant flavors of Vietnam, from the misty highlands to the sun-kissed Mekong Delta.",
+      "allRegions": "All Regions",
+      "north": "Northern",
+      "central": "Central",
+      "south": "Southern",
+      "culturalSpotlight": "Cultural Spotlight",
+      "discoverMore": "📬 Discover More Flavors",
+      "fact1": "The <strong>Vải Thiều Lục Ngạn</strong> is Vietnam’s “king of lychees,” exported to over 20 countries.",
+      "fact2": "The <strong>Dien Pomelo</strong> graces Tet altars, symbolizing prosperity and joy.",
+      "fact3": "The <strong>Cai Mon Durian</strong> stars in Southern Vietnamese desserts, from sticky rice to cakes.",
+      "fact4": "Over <strong>30 Vietnamese fruits</strong> carry protected geographical indications, a testament to their unique heritage.",
+      "pagination": "Fruit gallery pagination",
+      "previous": "Previous",
+      "next": "Next",
+      "page": "Go to page {page}"
+    },
+    "fruitCard": {
+        "season": {
+          "summer": "Summer (Jun-Jul)",
+          "yearRound": "Year-round"
+        },
+        "discoverMore": "Learn more about {name}",
+        "discoverMoreButton": "Discover More",
+        "share": "Share {name}",
+        "shareButton": "Share"
+      },
+      "fruitModal": {
+        "close": "Close modal",
+        "province": "Province",
+        "learnMore": "Learn more about {name}",
+        "learnMoreButton": "Learn More",
+        "watchVideo": "Watch video about {name}",
+        "watchVideoButton": "Watch Video"
+      },
+    "subscribe": {
+      "title": "🍊 Savor the Sweetest Updates",
+      "description": "Join our community to receive hand-picked stories, exclusive fruit highlights, and invitations to virtual orchard tours.",
+      "emailPlaceholder": "Your email address",
+      "joinNow": "Join Now",
+      "culturalNote": "Did you know? In Vietnam, fruits like the Dien Pomelo are offered during Tet to wish for prosperity and joy.",
+      "success": "Thank you for subscribing!"
+    },
+    "footer": {
+      "aboutTitle": "A Celebration of Heritage",
+      "aboutDescription": "The Essences of Vietnam Fruits honors 50 years of Liberation with 34 iconic fruits.",
+      "exploreTitle": "Explore More",
+      "connectTitle": "Stay Connected",
+      "connectDescription": "Join our community to receive the latest fruit stories.",
+      "emailPlaceholder": "Enter your email",
+      "subscribe": "Subscribe",
+      "copyright": "© 2025 The Essences of Vietnam Fruits | Ministry of Industry and Trade. All rights reserved."
+    },
+    "instructions": {
+  "title": "Explore the Fruit Showroom",
+  "description": "Begin your journey through Vietnam’s fruit world with this easy step-by-step guide.",
+  "step1": {
+    "title": "Discover the Fruit Gallery",
+    "description": "Browse our diverse collection of 34 iconic fruits from across Vietnam. Use filters to explore by region or search for your favorite fruit."
+  },
+  "step2": {
+    "title": "Learn About Each Fruit",
+    "description": "Click on a fruit card to open a detailed modal, uncovering the story, origin, and cultural value of each fruit through vivid images and descriptions."
+  },
+  "step3": {
+    "title": "Join Our Community",
+    "description": "Subscribe to our newsletter for exclusive fruit stories, event updates, and invitations to virtual orchard tours. Share your journey on social media!"
+  },
+  "explore": "Explore Now"
+}
+  }

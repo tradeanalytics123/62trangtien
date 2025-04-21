@@ -1,0 +1,116 @@
+{
+    "navbar": {
+      "home": "Trang chủ",
+      "fruitGallery": "Bộ sưu tập trái cây",
+      "howToExplore": "Cách khám phá",
+      "subscribe": "Đăng ký",
+      "contact": "Liên hệ",
+      "title": "Trái cây Việt Nam",
+      "searchPlaceholder": "Tìm kiếm trái cây...",
+      "search": "Tìm kiếm",
+      "language": "Ngôn ngữ",
+      "toggleMenu": "Chuyển đổi menu điều hướng",
+      "languages": {
+        "vn": "Tiếng Việt",
+        "en": "English",
+        "cn": "中文"
+      },
+      "social": {
+        "facebook": "Facebook",
+        "youtube": "YouTube",
+        "tiktok": "TikTok"
+      },
+      "socialLink": "Theo dõi chúng tôi trên {platform}"
+    },
+    "header": {
+      "title": "Tinh hoa trái cây Việt Nam",
+      "organization": "Bộ Công Thương",
+      "discoverFruits": "Khám phá trái cây",
+      "joinJourney": "Tham gia hành trình",
+      "culturalNote": "Trái cây Việt Nam là tấm thảm rực rỡ của văn hóa và thiên nhiên."
+    },
+    "callToAction": {
+      "title": "🌴 Bắt đầu cuộc phiêu lưu đầy hương vị",
+      "description": "Đắm mình trong thế giới rực rỡ của trái cây Việt Nam, nơi mỗi miếng cắn kể một câu chuyện về truyền thống, vùng đất và sự khéo léo vượt thời gian.",
+      "discoverFruits": "Khám phá trái cây",
+      "joinJourney": "Tham gia hành trình",
+      "testimonial1": "“Tham quan bộ sưu tập trái cây giống như du lịch qua các vườn cây Việt Nam mà không cần rời khỏi nhà!” – Linh, Hà Nội",
+      "testimonial2": "“Hương vị và câu chuyện của những loại trái cây này là sự tôn vinh thực sự cho di sản Việt Nam!” – Minh, Thành phố Hồ Chí Minh",
+      "testimonial3": "“Một trải nghiệm khó quên khi khám phá kho báu trái cây Việt Nam!” – Anh, Đà Nẵng",
+      "prevTestimonial": "Lời chứng thực trước",
+      "nextTestimonial": "Lời chứng thực tiếp theo"
+    },
+    "fruitGallery": {
+      "title": "🍈 Kho báu vườn cây Việt Nam",
+      "description": "Khám phá hương vị rực rỡ của Việt Nam, từ cao nguyên mù sương đến đồng bằng sông Cửu Long ngập nắng.",
+      "allRegions": "Tất cả khu vực",
+      "north": "Miền Bắc",
+      "central": "Miền Trung",
+      "south": "Miền Nam",
+      "culturalSpotlight": "Tiêu điểm văn hóa",
+      "discoverMore": "📬 Khám phá thêm hương vị",
+      "fact1": "<strong>Vải Thiều Lục Ngạn</strong> là “vua của các loại vải” của Việt Nam, được xuất khẩu sang hơn 20 quốc gia.",
+      "fact2": "<strong>Bưởi Diễn</strong> được đặt trên bàn thờ Tết, tượng trưng cho sự thịnh vượng và niềm vui.",
+      "fact3": "<strong>Sầu Riêng Cái Mơn</strong> là nguyên liệu chính trong các món tráng miệng miền Nam Việt Nam, từ xôi đến bánh.",
+      "fact4": "Hơn <strong>30 loại trái cây Việt Nam</strong> được bảo hộ chỉ dẫn địa lý, minh chứng cho di sản độc đáo của chúng.",
+      "pagination": "Phân trang bộ sưu tập trái cây",
+      "previous": "Trước",
+      "next": "Tiếp",
+      "page": "Đi đến trang {page}"
+      
+    },
+    "fruitCard": {
+      "season": {
+        "summer": "Mùa hè (Tháng 6-7)",
+        "yearRound": "Quanh năm"
+      },
+      "discoverMore": "Tìm hiểu thêm về {name}",
+      "discoverMoreButton": "Khám phá thêm",
+      "share": "Chia sẻ {name}",
+      "shareButton": "Chia sẻ"
+    },
+    "subscribe": {
+      "title": "🍊 Thưởng thức những cập nhật ngọt ngào",
+      "description": "Tham gia cộng đồng của chúng tôi để nhận những câu chuyện được chọn lọc, điểm nhấn trái cây độc quyền và lời mời tham quan vườn cây ảo.",
+      "emailPlaceholder": "Địa chỉ email của bạn",
+      "joinNow": "Tham gia ngay",
+      "culturalNote": "Bạn có biết không? Ở Việt Nam, trái cây như Bưởi Diễn được dâng lên bàn thờ Tết để cầu chúc thịnh vượng và niềm vui.",
+      "success": "Cảm ơn bạn đã đăng ký!"
+    },
+    "fruitModal": {
+      "close": "Đóng modal",
+      "province": "Tỉnh",
+      "learnMore": "Tìm hiểu thêm về {name}",
+      "learnMoreButton": "Tìm hiểu thêm",
+      "watchVideo": "Xem video về {name}",
+      "watchVideoButton": "Xem video"
+    },
+    "footer": {
+      "aboutTitle": "Kỷ niệm di sản",
+      "aboutDescription": "Tinh hoa trái cây Việt Nam tôn vinh 50 năm Giải phóng với 34 loại trái cây biểu tượng.",
+      "exploreTitle": "Khám phá thêm",
+      "connectTitle": "Kết nối",
+      "connectDescription": "Tham gia cộng đồng của chúng tôi để nhận những câu chuyện trái cây mới nhất.",
+      "emailPlaceholder": "Nhập email của bạn",
+      "subscribe": "Đăng ký",
+      "copyright": "© 2025 Tinh hoa trái cây Việt Nam | Bộ Công Thương. Mọi quyền được bảo lưu."
+    },
+    "instructions": {
+      "title": "Khám phá Phòng trưng bày Trái cây",
+      "description": "Hãy bắt đầu hành trình của bạn qua thế giới trái cây Việt Nam với hướng dẫn từng bước dễ dàng này.",
+      "step1": {
+        "title": "Khám phá Bộ sưu tập trái cây",
+        "description": "Duyệt qua bộ sưu tập đa dạng của chúng tôi với 34 loại trái cây biểu tượng từ khắp Việt Nam. Sử dụng các bộ lọc để khám phá theo vùng hoặc tìm kiếm trái cây yêu thích của bạn."
+      },
+      "step2": {
+        "title": "Tìm hiểu về từng loại trái cây",
+        "description": "Nhấp vào thẻ trái cây để mở modal chi tiết, khám phá câu chuyện, nguồn gốc, và giá trị văn hóa của từng loại trái cây qua hình ảnh và mô tả sống động."
+      },
+      "step3": {
+        "title": "Tham gia Cộng đồng của chúng tôi",
+        "description": "Đăng ký nhận bản tin để nhận các câu chuyện trái cây độc quyền, cập nhật sự kiện, và lời mời tham quan vườn cây ảo. Chia sẻ hành trình của bạn trên mạng xã hội!"
+      },
+      "explore": "Khám phá ngay"
+    }
+  }
+  

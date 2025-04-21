@@ -1,0 +1,114 @@
+{
+    "navbar": {
+      "home": "首页",
+      "fruitGallery": "水果画廊",
+      "howToExplore": "如何探索",
+      "subscribe": "订阅",
+      "contact": "联系我们",
+      "title": "越南水果",
+      "searchPlaceholder": "搜索水果...",
+      "search": "搜索",
+      "language": "语言",
+      "toggleMenu": "切换导航菜单",
+      "languages": {
+        "vn": "越南语",
+        "en": "英语",
+        "cn": "中文"
+      },
+      "social": {
+        "facebook": "Facebook",
+        "youtube": "YouTube",
+        "tiktok": "TikTok"
+      },
+      "socialLink": "在{platform}上关注我们"
+    },
+    "header": {
+      "title": "越南水果的精华",
+      "organization": "工业和贸易部",
+      "discoverFruits": "探索水果",
+      "joinJourney": "加入旅程",
+      "culturalNote": "越南的水果是文化与自然的生动织锦。"
+    },
+    "callToAction": {
+      "title": "🌴 开启一场美味的冒险",
+      "description": "沉浸在越南水果的缤纷世界中，每一口都诉说着传统、土地和永恒工艺的故事。",
+      "discoverFruits": "探索水果",
+      "joinJourney": "加入旅程",
+      "testimonial1": "“参观水果画廊就像在家中游览越南的果园！” – Linh，河内",
+      "testimonial2": "“这些水果的味道和故事是对越南遗产的真正庆祝！” – Minh，胡志明市",
+      "testimonial3": "“探索越南水果宝藏的难忘体验！” – Anh，岘港",
+      "prevTestimonial": "上一个推荐",
+      "nextTestimonial": "下一个推荐"
+    },
+    "fruitGallery": {
+      "title": "🍈 越南果园的宝藏",
+      "description": "探索越南的鲜活风味，从薄雾笼罩的高原到阳光普照的湄公河三角洲。",
+      "allRegions": "所有地区",
+      "north": "北部",
+      "central": "中部",
+      "south": "南部",
+      "culturalSpotlight": "文化聚焦",
+      "discoverMore": "📬 探索更多风味",
+      "fact1": "<strong>北江陆岸荔枝</strong>是越南的“荔枝之王”，出口到20多个国家。",
+      "fact2": "<strong>演柚</strong>在春节祭坛上象征着繁荣与喜悦。",
+      "fact3": "<strong>Cái Mơn榴莲</strong>是越南南方甜点的主角，从糯米饭到蛋糕。",
+      "fact4": "超过<strong>30种越南水果</strong>获得地理标志保护，证明其独特遗产。",
+      "pagination": "水果画廊分页",
+      "previous": "上一页",
+      "next": "下一页",
+      "page": "前往第{page}页"
+    },
+    "fruitCard": {
+      "season": {
+        "summer": "夏季（6-7月）",
+        "yearRound": "全年"
+      },
+      "discoverMore": "了解更多关于{name}的信息",
+      "discoverMoreButton": "探索更多",
+      "share": "分享{name}",
+      "shareButton": "分享"
+},
+"fruitModal": {
+      "close": "关闭模态框",
+      "province": "省份",
+      "learnMore": "了解更多关于{name}的信息",
+      "learnMoreButton": "了解更多",
+      "watchVideo": "观看关于{name}的视频",
+      "watchVideoButton": "观看视频"
+    },
+    "subscribe": {
+      "title": "🍊 品尝最甜蜜的更新",
+      "description": "加入我们的社区，接收精选故事、独家水果亮点和虚拟果园游览邀请。",
+      "emailPlaceholder": "您的电子邮件地址",
+      "joinNow": "立即加入",
+      "culturalNote": "您知道吗？在越南，春节期间会供奉像演柚这样的水果，以祈求繁荣和喜悦。",
+      "success": "感谢您订阅！"
+    },
+    "footer": {
+      "aboutTitle": "庆祝遗产",
+      "aboutDescription": "越南水果精华以34种标志性水果庆祝解放50周年。",
+      "exploreTitle": "探索更多",
+      "connectTitle": "保持联系",
+      "connectDescription": "加入我们的社区，接收最新的水果故事。",
+      "emailPlaceholder": "输入您的电子邮件",
+      "subscribe": "订阅",
+      "copyright": "© 2025 越南水果精华 | 工业和贸易部。保留所有权利。"
+    },
+    "instructions": {
+      "title": "探索水果展厅",
+      "description": "通过这个简单的分步指南，开始您的越南水果世界之旅。",
+      "step1": {
+        "title": "发现水果画廊",
+        "description": "浏览我们多样化的34种越南标志性水果收藏。使用筛选器按地区探索或搜索您喜爱的水果。"
+      },
+      "step2": {
+        "title": "了解每种水果",
+        "description": "点击水果卡片打开详细模态框，通过生动的图片和描述，探索每种水果的故事、起源和文化价值。"
+      },
+      "step3": {
+        "title": "加入我们的社区",
+        "description": "订阅我们的新闻简讯，获取独家水果故事、活动更新和虚拟果园游览邀请。在社交媒体上分享您的旅程！"
+      },
+      "explore": "立即探索"
+}
+  }
