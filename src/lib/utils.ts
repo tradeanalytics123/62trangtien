@@ -7,11 +7,11 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 export const useLanguage = () => {
-  const [currentLang, setCurrentLang] = useState<string>(
-    localStorage.getItem('language') || 'vn', // Set Vietnamese as default
+  const [currentLang, setCurrentLang] = useState<'vn' | 'en' | 'cn'>(
+    (localStorage.getItem('language') as 'vn' | 'en' | 'cn') || 'vn',
   );
 
-  const switchLanguage = (lang: string) => {
+  const switchLanguage = (lang: 'vn' | 'en' | 'cn') => {
     setCurrentLang(lang);
     localStorage.setItem('language', lang);
   };
@@ -20,7 +20,7 @@ export const useLanguage = () => {
 };
 
 export const useDynamicTagline = () => {
-  const taglines = {
+  const taglines: { [key in 'vn' | 'en' | 'cn']: string[] } = {
     vn: [
       'Kỷ niệm 50 năm Giải phóng với những trái cây tuyệt vời',
       'Hành trình qua những vườn cây Việt Nam rực rỡ',
@@ -55,7 +55,7 @@ export const useDynamicTagline = () => {
     }, 5000);
 
     return () => clearInterval(interval);
-  }, [currentLang, taglines]);
+  }, [currentLang]);
 
   return { tagline: taglines[currentLang][currentTaglineIndex], isFading };
 };

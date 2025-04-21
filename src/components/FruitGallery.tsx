@@ -3,7 +3,6 @@ import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { fruits } from '@/data/fruits';
 import FruitCard from '@/components/FruitCard';
-import { Fruit } from '@/lib/types';
 import { useTranslation } from 'react-i18next';
 
 const ITEMS_PER_PAGE = 6;
